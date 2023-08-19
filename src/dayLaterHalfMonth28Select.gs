@@ -9,7 +9,7 @@ function dayLaterHalfMonth28Select(replyToken, userMessage) {
       'replyToken': replyToken,
       "messages": [{
         "type": "template",
-        "altText": "dayLaterHalfMonth28Selecter",
+        "altText": "dayLaterHalf28Selecter",
         "template": {
          "type": "carousel",
           "actions": [],
